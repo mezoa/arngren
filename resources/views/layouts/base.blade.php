@@ -22,7 +22,7 @@
     <meta name="author" content="Surfside Media">
     <link rel="preconnect" href="https://fonts.gstatic.com">
 
-    <title>SurfsideMedia</title>
+    <title>Arngren</title>
 
     <link id="rtl-link" rel="stylesheet" type="text/css" href="{{ asset('assets/css/vendors/bootstrap.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/vendors/ion.rangeSlider.min.css') }}">
@@ -46,6 +46,26 @@
                 max-width: 150px !important;
             }
         }
+        .h-logo {
+        margin-top: 1px; /* Adjust as needed */
+    }
+    .brand-logo {
+        display: flex;
+        align-items: center; /* Vertically align items */
+    }
+
+    .brand-logo img {
+        width: 120px; /* Adjust as needed */
+        height: auto;
+        margin-right: 10px; /* Add some space between the logo and text */
+    }
+
+    .brand-logo span {
+        font-size: 40px; /* Adjust the font size */
+        font-weight: bold; /* Make the text bold if desired */
+        color: #333; /* Change the color */
+    }
+
     </style>
     <link rel="stylesheet" href="{{asset('assets/css/custom.css')}}">
         @stack('styles')
@@ -116,11 +136,10 @@
                             <div class="menu-left">
                                 <div class="brand-logo">
                                     <a href="{{route('app.index')}}">
-                                        <img src="{{asset('assets/images/logo-11@2x.png')}}" class="h-logo img-fluid blur-up lazyload"
-                                            alt="logo">
+                                        <img src="{{asset('assets/images/logo-11@2x.png')}}" class="h-logo img-fluid blur-up lazyload" alt="logo">
                                     </a>
+                                    <span>Arngren</span> <!-- Added the store name here -->
                                 </div>
-
                             </div>
                             <nav>
                                 <div class="main-navbar">
@@ -132,18 +151,17 @@
                                             <li class="back-btn d-xl-none">
                                                 <div class="close-btn">
                                                     Menu
-                                                    <span class="mobile-back"><i class="fa fa-angle-left"></i>
-                                                    </span>
+                                                    <span class="mobile-back"><i class="fa fa-angle-left"></i></span>
                                                 </div>
                                             </li>
                                             <li><a href="{{route('app.index')}}" class="nav-link menu-title">Home</a></li>
                                             <li><a href="{{route('shop.index')}}" class="nav-link menu-title">Shop</a></li>
                                             <li><a href="{{route('cart.index')}}" class="nav-link menu-title">Cart</a></li>
-                                            </li>
                                         </ul>
                                     </div>
                                 </div>
                             </nav>
+                            
                             <div class="menu-right">
                                 <ul>
                                     <li>
@@ -281,7 +299,7 @@
                                             India</span></span>
                                 </li>
                                 <li>
-                                    <span><b>Email:</b><span class="font-light"> contact@surfsidemedia.in</span></span>
+                                    <span><b>Email:</b><span class="font-light"> arngren@gmail.com</span></span>
                                 </li>
                             </ul>
                         </div>

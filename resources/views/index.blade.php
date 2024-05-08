@@ -43,25 +43,10 @@
     <div class="left-side-contain">
         <div class="banner-left">
             <h4>Sale <span class="theme-color">35% Off</span></h4>
-            <h1>New Latest <span>Dresses</span></h1>
-            <p>BUY ONE GET ONE <span class="theme-color">FREE</span></p>
+            <h1>New Latest <span>Vehicles</span></h1>
+            <p>BUY ONE AND GET A <span class="theme-color">FREE DISCOUNT</span></p>
             <h2>₱79.00 <span class="theme-color"><del>₱65.00</del></span></h2>
-            <p class="poster-details mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.</p>
-        </div>
-    </div>
-
-    <div class="right-side-contain">
-        <div class="social-image">
-            <h6>Facebook</h6>
-        </div>
-
-        <div class="social-image">
-            <h6>Instagram</h6>
-        </div>
-
-        <div class="social-image">
-            <h6>Twitter</h6>
+            <p class="poster-details mb-0">Shop to your Comfort and Convenience</p>
         </div>
     </div>
 </section>
@@ -72,12 +57,9 @@
             <div class="col-lg-4 col-md-6">
                 <div class="collection-banner p-bottom p-center text-center">
                     <a href="shop-left-sidebar.html" class="banner-img">
-                        <img src="assets/images/rectangle-2012@2x.png" class="bg-img blur-up lazyload" alt="">
+                        <img src="assets/images/mt3.png" class="bg-img blur-up lazyload" alt="">
                     </a>
                     <div class="banner-detail">
-                        <a href="javacript:void(0)" class="heart-wishlist">
-                            <i class="far fa-heart"></i>
-                        </a>
                         <span class="font-dark-30">26% <span>OFF</span></span>
                     </div>
                     <a href="shop-left-sidebar.html" class="contain-banner">
@@ -91,12 +73,9 @@
             <div class="col-lg-4 col-md-6">
                 <div class="collection-banner p-bottom p-center text-center">
                     <a href="shop-left-sidebar.html" class="banner-img">
-                        <img src="assets/images/component-8@2x.png" class="bg-img blur-up lazyload" alt="">
+                        <img src="assets/images/b5.png" class="bg-img blur-up lazyload" alt="">
                     </a>
                     <div class="banner-detail">
-                        <a href="javacript:void(0)" class="heart-wishlist">
-                            <i class="far fa-heart"></i>
-                        </a>
                         <span class="font-dark-30">50% <span>OFF</span></span>
                     </div>
                     <a href="shop-left-sidebar.html" class="contain-banner">
@@ -110,12 +89,9 @@
             <div class="col-lg-4">
                 <div class="collection-banner p-bottom p-center text-center">
                     <a href="shop-left-sidebar.html" class="banner-img">
-                        <img src="assets/images/component-12@2x.png" class="bg-img blur-up lazyload" alt="">
+                        <img src="assets/images/b3.png" class="bg-img blur-up lazyload" alt="">
                     </a>
                     <div class="banner-detail">
-                        <a href="javacript:void(0)" class="heart-wishlist">
-                            <i class="far fa-heart"></i>
-                        </a>
                         <span class="font-dark-30">36% <span>OFF</span></span>
                     </div>
                     <a href="shop-left-sidebar.html" class="contain-banner">
@@ -179,7 +155,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2010@2x.png"
+                            <img src="assets/images/toy3.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -199,11 +175,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -244,7 +216,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2012@2x.png"
+                            <img src="assets/images/c6.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -264,11 +236,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -309,7 +277,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2024@2x.png"
+                            <img src="assets/images/m7.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -329,11 +297,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -374,7 +338,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2025@2x.png"
+                            <img src="assets/images/b11.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -394,11 +358,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -439,7 +399,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2026@2x.png"
+                            <img src="assets/images/m5.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -459,11 +419,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -504,7 +460,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2027@2x.png"
+                            <img src="assets/images/toys3.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -524,11 +480,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -569,7 +521,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2061@2x.png"
+                            <img src="assets/images/mt2.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -589,11 +541,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -634,7 +582,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-20111@2x.png"
+                            <img src="assets/images/b10.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -654,11 +602,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -699,7 +643,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-2028@2x.png"
+                            <img src="assets/images/toy7.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -719,11 +663,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -764,7 +704,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-20-111@2x.png"
+                            <img src="assets/images/mt4.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -784,11 +724,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -829,7 +765,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/rectangle-20-61@2x.png"
+                            <img src="assets/images/ap3.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -849,11 +785,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -894,7 +826,7 @@
                 <div class="product-box">
                     <div class="img-wrapper">
                         <a href="product/details.html">
-                            <img src="assets/images/fashion/product/front/20.jpg"
+                            <img src="assets/images/toy10.png"
                                 class="w-100 bg-img blur-up lazyload" alt="">
                         </a>
                         <div class="circle-shape"></div>
@@ -914,11 +846,7 @@
                                         <i data-feather="eye"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="javascript:void(0)" class="wishlist">
-                                        <i data-feather="heart"></i>
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -958,87 +886,6 @@
     </div>
 </section>
 
-<!-- category section start -->
-<section class="category-section ratio_40">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="title title-2 text-center">
-                    <h2>Our Category</h2>
-                    <h5 class="text-color">Our collection</h5>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-3">
-            <div class="col-xxl-2 col-lg-3">
-                <div class="category-wrap category-padding category-block theme-bg-color">
-                    <div>
-                        <h2 class="light-text">Top</h2>
-                        <h2 class="top-spacing">Our Top</h2>
-                        <span>Categories</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xxl-10 col-lg-9">
-                <div class="category-wrapper category-slider1 white-arrow category-arrow">
-                    <div>
-                        <a href="shop-left-sidebar.html" class="category-wrap category-padding">
-                            <img src="assets/images/rectangle-20-62@2x.png" class="bg-img blur-up lazyload"
-                                alt="category image">
-                            <div class="category-content category-text-1">
-                                <h3 class="theme-color">Toys</h3>
-                                <span class="text-dark">Playable</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="shop-left-sidebar.html" class="category-wrap category-padding">
-                            <img src="assets/images/rectangle-209@2x.png" class="bg-img blur-up lazyload"
-                                alt="category image">
-                            <div class="category-content category-text-1">
-                                <h3 class="theme-color">Motorcycle</h3>
-                                <span class="text-dark">Transportation</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="shop-left-sidebar.html" class="category-wrap category-padding">
-                            <img src="assets/images/component-101@2x.png" class="bg-img blur-up lazyload"
-                                alt="category image">
-                            <div class="category-content category-text-1">
-                                <h3 class="theme-color">Vehicles</h3>
-                                <span class="text-dark">Transportation</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="shop-left-sidebar.html" class="category-wrap category-padding">
-                            <img src="assets/images/fashion/category/4.jpg" class="bg-img blur-up lazyload"
-                                alt="category image">
-                            <div class="category-content category-text-1">
-                                <h3 class="theme-color">Jacket</h3>
-                                <span class="text-dark">Fashion</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="shop-left-sidebar.html" class="category-wrap category-padding">
-                            <img src="assets/images/fashion/category/3.jpg" class="bg-img blur-up lazyload"
-                                alt="category image">
-                            <div class="category-content category-text-1">
-                                <h3 class="theme-color">Jeans</h3>
-                                <span class="text-dark">Fashion</span>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- category section end -->
-
-
 <section class="product-slider overflow-hidden">
     <div>
         <div class="container">
@@ -1055,7 +902,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm4.png"
+                                            <img src="assets/images/Rectangle 21.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1080,13 +927,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1099,7 +939,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm36.png"
+                                            <img src="assets/images/ap6.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1124,13 +964,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1143,7 +976,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm11.png"
+                                            <img src="assets/images/toy7.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1168,13 +1001,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1187,7 +1013,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm3.png"
+                                            <img src="assets/images/mt3.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1212,13 +1038,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1244,7 +1063,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm9.png"
+                                            <img src="assets/images/Rectangle 22.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1269,13 +1088,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1288,7 +1100,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm10.png"
+                                            <img src="assets/images/Rectangle 23.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1313,13 +1125,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1332,7 +1137,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm35.png"
+                                            <img src="assets/images/Rectangle 24.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1357,13 +1162,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1376,7 +1174,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/cm15.png"
+                                            <img src="assets/images/Rectangle 25.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1401,13 +1199,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1460,13 +1251,6 @@
                                                                 <i data-feather="eye"></i>
                                                             </a>
                                                         </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
-                                                            </a>
-                                                        </li>
                                                     </ul>
                                                 </div>
                                             </a>
@@ -1477,7 +1261,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/rectangle-20-62@2x.png"
+                                            <img src="assets/images/toy1.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1504,13 +1288,6 @@
                                                                 <i data-feather="eye"></i>
                                                             </a>
                                                         </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
-                                                            </a>
-                                                        </li>
                                                     </ul>
                                                 </div>
                                             </a>
@@ -1521,7 +1298,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/rectangle-20-52@2x.png"
+                                            <img src="assets/images/b13.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1548,13 +1325,6 @@
                                                                 <i data-feather="eye"></i>
                                                             </a>
                                                         </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
-                                                            </a>
-                                                        </li>
                                                     </ul>
                                                 </div>
                                             </a>
@@ -1565,7 +1335,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/rectangle-20-131@2x.png"
+                                            <img src="assets/images/b11.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1590,13 +1360,6 @@
                                                             <a href="javascript:void(0)" data-bs-toggle="modal"
                                                                 data-bs-target="#quick-view">
                                                                 <i data-feather="eye"></i>
-                                                            </a>
-                                                        </li>
-
-                                                        <li data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            title="Wishlist">
-                                                            <a href="wishlist.php" class="wishlist">
-                                                                <i data-feather="heart"></i>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -1634,7 +1397,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-2015@2x.png"
+                                <img src="assets/images/b12.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
@@ -1700,7 +1463,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-2013@2x.png"
+                                <img src="assets/images/c3.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
@@ -1766,7 +1529,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-20-51@2x.png"
+                                <img src="assets/images/toy8.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
@@ -1832,7 +1595,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-20-32@2x.png"
+                                <img src="assets/images/ap6.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
@@ -1898,7 +1661,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-201@2x.png"
+                                <img src="assets/images/ap3.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
@@ -1964,7 +1727,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-2014@2x.png"
+                                <img src="assets/images/m5.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
@@ -2030,7 +1793,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-20-41@2x.png"
+                                <img src="assets/images/mt4.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>
@@ -2096,7 +1859,7 @@
                     <div class="product-box">
                         <div class="img-wrapper">
                             <a href="product/details.html">
-                                <img src="assets/images/rectangle-20-52@2x.png"
+                                <img src="assets/images/toy5.png"
                                     class="w-100 bg-img blur-up lazyload" alt="">
                             </a>
                             <div class="circle-shape"></div>

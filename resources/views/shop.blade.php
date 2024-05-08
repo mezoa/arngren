@@ -268,11 +268,6 @@
                                                 <i data-feather="eye"></i>
                                             </a>
                                         </li>
-                                        <li>
-                                            <a href="javascript:void(0)" class="wishlist">
-                                                <i data-feather="heart"></i>
-                                            </a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
