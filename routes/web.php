@@ -7,6 +7,8 @@ use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\CartController;
+use App\Http\Controllers\CheckoutController;
+use App\Http\Controllers\SuccessController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,7 +26,11 @@ Route::get('/',[AppController::class,'index'])->name('app.index');
 Route::get('/shop',[ShopController::class,'index'])->name('shop.index');
 Route::get('/product/{slug}', [ShopController::class, 'productDetails'])->name('shop.product.details');
 Route::get('/cart',[CartController::class,'index'])->name('cart.index');
-
+Route::get('/checkout',[CheckoutController::class,'index'])->name('checkout.index');
+Route::get('/success',[SuccessController::class,'index'])->name('checkout.success');
+Route::get('/success', function () {
+    return view('success');
+})->name('checkout.success');
 
 
 Route::post('/cart/store', [CartController::class, 'addToCart'])->name('cart.store');
