@@ -1,8 +1,10 @@
 @extends('layouts.base')
 @push('styles')
     <link id="color-link" rel="stylesheet" type="text/css" href="{{asset('assets/css/demo2.css')}}">
+    
 @endpush
 @section('content')
+
 <section class="breadcrumb-section section-b-space" style="padding-top:20px;padding-bottom:20px;">
     <ul class="circles">
         <li></li>
@@ -121,26 +123,48 @@
                                     @endif
                                 
                                 </h3>
-
+                                
+                                <style>
+                                    .image-select {
+                                        display: flex;
+                                        align-items: center; /* Adjust as needed */
+                                    }
+                                    .image-select h5 {
+                                        margin-right: 10px; /* Adjust as needed */
+                                    }
+                                    .image-select .image-section {
+                                        display: flex;
+                                        gap: 10px; /* Adjust as needed */
+                                    }
+                                    .image-select .image-section li {
+                                        list-style: none;
+                                    }
+                                </style>
                                 <div class="color-image">
                                     <div class="image-select">
                                         <h5>Color :</h5>
                                         <ul class="image-section">
                                             <li>
                                                 <a href="javascript:void(0)">
-                                                    <img src="../assets/images/fashion/product/front/5.jpg"
+                                                    <img src="../assets/images/fashion/product/front/02.png"
                                                         class="img-fluid blur-up lazyload" alt="">
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)">
-                                                    <img src="../assets/images/fashion/product/front/6.jpg"
+                                                    <img src="../assets/images/fashion/product/front/01.png"
                                                         class="img-fluid blur-up lazyload" alt="">
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:void(0)">
-                                                    <img src="../assets/images/fashion/product/front/7.jpg"
+                                                    <img src="../assets/images/fashion/product/front/03.png"
+                                                        class="img-fluid blur-up lazyload" alt="">
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)">
+                                                    <img src="../assets/images/fashion/product/front/04.png"
                                                         class="img-fluid blur-up lazyload" alt="">
                                                 </a>
                                             </li>

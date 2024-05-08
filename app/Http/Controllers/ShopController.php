@@ -59,6 +59,14 @@ class ShopController extends Controller
                 });
             }
 
+             // Add this block to filter products by category
+            if (!empty($q_categories)) {
+                $categoryIds = explode(',', $q_categories);
+                $productsQuery->whereHas('category', function ($query) use ($categoryIds) {
+                    $query->whereIn('id', $categoryIds);
+                });
+            }
+
         $products = $productsQuery->orderBy('created_at','DESC')->orderBy($o_column,$o_order)->paginate($size);
 
         return view('shop',['products'=>$products,'page'=>$page,'size'=>$size,'order'=>$order,'brands'=>$brands,'q_brands'=>$q_brands,'categories'=>$categories,'q_categories'=>$q_categories]);    

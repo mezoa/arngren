@@ -305,7 +305,7 @@
                                         <span class="font-light">{{$product->category->name}}</span>
                                         <p class="font-light">{{$product->short_description}}</p>
                                     </div>
-                                    <h3 class="theme-color">${{$product->regular_price}}</h3>
+                                    <h3 class="theme-color">₱{{$product->regular_price}}</h3>
                                     <button class="btn listing-content">Add To Cart</button>
                                 </div>
                             </div>
@@ -375,6 +375,7 @@
     </div>
 </section>
 <!-- Subscribe Section End -->
+
 <form id="frmFilter" method="GET">
     <input type="hidden" name="page" id="page" value="{{$page}}" />
     <input type="hidden" name="size" id="size" value="{{$size}}" /> 
@@ -422,7 +423,7 @@
                         categories += "," + this.value;
                     }
                 });
-                $("#categories").val(brands);
+                $("#categories").val(categories); // Changed from brands to categories
                 $("#frmFilter").submit();
             } 
 

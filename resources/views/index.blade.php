@@ -3,13 +3,13 @@
 <section class="pt-0 poster-section">
     <div class="poster-image slider-for custome-arrow classic-arrow">
         <div>
-            <img src="assets/images/furniture-images/poster/1.png" class="img-fluid blur-up lazyload" alt="">
+            <img src="assets/images/furniture-images/poster/car3.jpg" class="img-fluid blur-up lazyload" alt="">
         </div>
         <div>
-            <img src="assets/images/furniture-images/poster/2.png" class="img-fluid blur-up lazyload" alt="">
+            <img src="assets/images/furniture-images/poster/car2.jpg" class="img-fluid blur-up lazyload" alt="">
         </div>
         <div>
-            <img src="assets/images/furniture-images/poster/3.png" class="img-fluid blur-up lazyload" alt="">
+            <img src="assets/images/furniture-images/poster/car3.jpg" class="img-fluid blur-up lazyload" alt="">
         </div>
     </div>
     <div class="slider-nav image-show">
@@ -45,7 +45,7 @@
             <h4>Sale <span class="theme-color">35% Off</span></h4>
             <h1>New Latest <span>Dresses</span></h1>
             <p>BUY ONE GET ONE <span class="theme-color">FREE</span></p>
-            <h2>$79.00 <span class="theme-color"><del>$65.00</del></span></h2>
+            <h2>₱79.00 <span class="theme-color"><del>₱65.00</del></span></h2>
             <p class="poster-details mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry.</p>
         </div>
@@ -210,7 +210,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$5</div>
+                                <div class="theme-color">₱5</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -275,7 +275,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$3</div>
+                                <div class="theme-color">₱3</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -340,7 +340,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$8</div>
+                                <div class="theme-color">₱8</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -405,7 +405,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$4</div>
+                                <div class="theme-color">₱4</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -470,7 +470,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$11</div>
+                                <div class="theme-color">₱11</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -535,7 +535,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$19</div>
+                                <div class="theme-color">₱19</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -600,7 +600,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$4</div>
+                                <div class="theme-color">₱4</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -665,7 +665,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$18</div>
+                                <div class="theme-color">₱18</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -730,7 +730,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$20</div>
+                                <div class="theme-color">₱20</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -795,7 +795,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$7</div>
+                                <div class="theme-color">₱7</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -860,7 +860,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$5</div>
+                                <div class="theme-color">₱5</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -925,7 +925,7 @@
                     <div class="product-style-3 product-style-chair">
                         <div class="product-title d-block mb-0">
                             <div class="r-price">
-                                <div class="theme-color">$21</div>
+                                <div class="theme-color">₱21</div>
                                 <div class="main-price">
                                     <ul class="rating mb-1 mt-0">
                                         <li>
@@ -1062,8 +1062,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1106,8 +1106,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1150,8 +1150,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1194,8 +1194,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1251,8 +1251,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1295,8 +1295,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1339,8 +1339,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1383,8 +1383,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1440,8 +1440,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1484,8 +1484,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1528,8 +1528,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1572,8 +1572,8 @@
                                             <a href="product/details.html">
                                                 <h6 class="font-light">Fully Confirtable</h6>
                                                 <h3>Latest wood handle chair 7854</h3>
-                                                <h4 class="font-light mt-1"><del>$49.00</del> <span
-                                                        class="theme-color">$35.50</span>
+                                                <h4 class="font-light mt-1"><del>₱49.00</del> <span
+                                                        class="theme-color">₱35.50</span>
                                                 </h4>
                                                 <div class="cart-wrap">
                                                     <ul>
@@ -1667,7 +1667,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
@@ -1733,7 +1733,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
@@ -1799,7 +1799,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
@@ -1865,7 +1865,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
@@ -1931,7 +1931,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
@@ -1997,7 +1997,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
@@ -2063,7 +2063,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
@@ -2129,7 +2129,7 @@
                         <div class="product-style-3 product-style-chair">
                             <div class="product-title d-block mb-0">
                                 <div class="r-price">
-                                    <div class="theme-color">$21</div>
+                                    <div class="theme-color">₱21</div>
                                     <div class="main-price">
                                         <ul class="rating mb-1 mt-0">
                                             <li>
