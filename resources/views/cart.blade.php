@@ -53,8 +53,9 @@
                         @foreach ($cartItems as $item)                                                   
                         <tr>
                             <td>
-                                <a href="{{route('shop.product.details',['slug'=>$item->model->slug])}}">
+                                <a href="{{route('shop.product.details', ['slug' => $item->model->slug])}}">
                                     <img src="{{asset('assets/images/fashion/product/front')}}/{{$item->model->image}}" class="blur-up lazyloaded" alt="{{$item->model->name}}">
+                                </a>
                                 </a>
                             </td>
                             <td>

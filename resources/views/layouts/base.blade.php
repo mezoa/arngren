@@ -34,16 +34,16 @@
     <link id="color-link" rel="stylesheet" type="text/css" href="{{ asset('assets/css/demo4.css') }}">
     <style>
         .h-logo {
-            max-width: 185px !important;
+            max-width: 110px !important;
         }
 
         .f-logo {
-            max-width: 220px !important;
+            max-width: 190px !important;
         }
 
         @media only screen and (max-width: 600px) {
             .h-logo {
-                max-width: 110px !important;
+                max-width: 150px !important;
             }
         }
     </style>
@@ -116,7 +116,7 @@
                             <div class="menu-left">
                                 <div class="brand-logo">
                                     <a href="{{route('app.index')}}">
-                                        <img src="{{asset('assets/images/logo.png')}}" class="h-logo img-fluid blur-up lazyload"
+                                        <img src="{{asset('assets/images/logo-11@2x.png')}}" class="h-logo img-fluid blur-up lazyload"
                                             alt="logo">
                                     </a>
                                 </div>
@@ -139,10 +139,7 @@
                                             <li><a href="{{route('app.index')}}" class="nav-link menu-title">Home</a></li>
                                             <li><a href="{{route('shop.index')}}" class="nav-link menu-title">Shop</a></li>
                                             <li><a href="{{route('cart.index')}}" class="nav-link menu-title">Cart</a></li>
-                                            <li><a href="about-us.html" class="nav-link menu-title">About Us</a></li>
-                                            <li><a href="contact-us.html" class="nav-link menu-title">Contact Us</a>
                                             </li>
-                                            <li><a href="blog.html" class="nav-link menu-title">Blog</a></li>
                                         </ul>
                                     </div>
                                 </div>

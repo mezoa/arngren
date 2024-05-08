@@ -1045,7 +1045,7 @@
             <div class="row g-3">
                 <div class="col-lg-4">
                     <div class="title-3 pb-4 title-border">
-                        <h2>Most Popular</h2>
+                        <h2>Least Popular</h2>
                         <h5 class="theme-color">Our Collection</h5>
                     </div>
 
@@ -1055,7 +1055,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/1.jpg"
+                                            <img src="assets/images/cm4.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1099,7 +1099,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/2.jpg"
+                                            <img src="assets/images/cm36.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1143,7 +1143,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/3.jpg"
+                                            <img src="assets/images/cm11.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1187,7 +1187,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/4.jpg"
+                                            <img src="assets/images/cm3.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1244,7 +1244,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/1.jpg"
+                                            <img src="assets/images/cm9.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1288,7 +1288,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/2.jpg"
+                                            <img src="assets/images/cm10.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1332,7 +1332,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/3.jpg"
+                                            <img src="assets/images/cm35.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1376,7 +1376,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/4.jpg"
+                                            <img src="assets/images/cm15.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1433,7 +1433,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/1.jpg"
+                                            <img src="assets/images/ap1.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1477,7 +1477,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/2.jpg"
+                                            <img src="assets/images/rectangle-20-62@2x.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1521,7 +1521,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/3.jpg"
+                                            <img src="assets/images/rectangle-20-52@2x.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
@@ -1565,7 +1565,7 @@
                                 <div class="col-lg-12 col-md-6 col-12">
                                     <div class="product-image">
                                         <a href="product/details.html">
-                                            <img src="assets/images/furniture-images/product/4.jpg"
+                                            <img src="assets/images/rectangle-20-131@2x.png"
                                                 class="blur-up lazyload" alt="">
                                         </a>
                                         <div class="product-details">
