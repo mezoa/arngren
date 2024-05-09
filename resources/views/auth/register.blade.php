@@ -68,5 +68,7 @@
     </div>
 </div>
 
+
 <!-- Sign Up Section End -->
+
 @endsection
