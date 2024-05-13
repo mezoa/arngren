@@ -1,20 +1,20 @@
 :root {
-  --theme-color: #0163d2; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color2 {
-  --theme-color: #e22454; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color3 {
-  --theme-color: #7520dd; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color4 {
-  --theme-color: #e87316; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color5 {
-  --theme-color: #df4246; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color6 {
-  --theme-color: #51983c; }
+  --theme-color: #AA4E43 !important; }
 
 .text-color {
   color: #6d6d6d; }
@@ -4300,7 +4300,7 @@ header .main-navbar {
                 justify-content: center;
         width: 100%;
         height: 100%;
-        background-color: rgba(232, 115, 22, 0.7);
+        background-color: rgba(255, 236, 221, 0.7);
         -webkit-transform: scale(0);
                 transform: scale(0);
         -webkit-transition: 0.5s ease;

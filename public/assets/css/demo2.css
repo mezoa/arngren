@@ -1,23 +1,23 @@
 :root {
-  --theme-color: #0163d2; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color2 {
-  --theme-color: #e22454; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color3 {
-  --theme-color: #7520dd; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color4 {
-  --theme-color: #e87316; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color5 {
-  --theme-color: #df4246; }
+  --theme-color: #AA4E43 !important; }
 
 .theme-color6 {
-  --theme-color: #51983c; }
+  --theme-color: #AA4E43 !important; }
 
 .text-color {
-  color: #6d6d6d; }
+  color: #4B465A !important; }
 
 /**=====================
     common mixins css start
@@ -28,7 +28,7 @@
 /*======= display flex css ends  ======= */
 /*======= Font-color css starts  ======= */
 .font-default {
-  color: #232323 !important; }
+  color: #4B465A !important; }
 
 .font-dark {
   color: rgba(35, 35, 35, 0.65) !important; }

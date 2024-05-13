@@ -91,7 +91,7 @@
         }
 
         .name-usr {
-            background: #e87316;
+            background: #AA4E43;
             padding: 8px 12px;
             color: #fff;
             font-weight: bold;
@@ -129,7 +129,7 @@
     </style>
     <header class="header-style-2" id="home">
         <div class="main-header navbar-searchbar">
-            <div class="container-fluid-lg">
+            <div class="container-fluid-lg" style="background-color: #fffaf4">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="main-menu">
@@ -277,7 +277,7 @@
     @yield('content')                            
 
     <div id="qvmodal"></div>
-
+    {{--
     <footer class="footer-sm-space mt-5">
         <div class="main-footer">
             <div class="container">
@@ -316,15 +316,6 @@
                                     </li>
                                     <li>
                                         <a href="{{route('shop.index')}}" class="font-dark">Shop</a>
-                                    </li>
-                                    <li>
-                                        <a href="about-us.html" class="font-dark">About Us</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="font-dark">Blog</a>
-                                    </li>
-                                    <li>
-                                        <a href="contact-us.html" class="font-dark">Contact</a>
                                     </li>
                                 </ul>
                             </div>
@@ -407,32 +398,28 @@
                             <li class="font-dark">We accept:</li>
                             <li>
                                 <a href="javascript:void(0)">
-                                    <img src="assets/images/payment-icon/1.jpg" class="img-fluid blur-up lazyload"
-                                        alt="payment icon">
+                                    
                                 </a>
                             </li>
                             <li>
                                 <a href="javascript:void(0)">
-                                    <img src="assets/images/payment-icon/2.jpg" class="img-fluid blur-up lazyload"
-                                        alt="payment icon">
+                                    
                                 </a>
                             </li>
                             <li>
                                 <a href="javascript:void(0)">
-                                    <img src="assets/images/payment-icon/3.jpg" class="img-fluid blur-up lazyload"
-                                        alt="payment icon">
+                                    
                                 </a>
                             </li>
                             <li>
                                 <a href="javascript:void(0)">
-                                    <img src="assets/images/payment-icon/4.jpg" class="img-fluid blur-up lazyload"
-                                        alt="payment icon">
+                                   
                                 </a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-md-6">
-                        <p class="mb-0 font-dark">© 2023, Surfside Media.</p>
+                        <p class="mb-0 font-dark">© 2023, Arngren.</p>
                     </div>
                 </div>
             </div>
@@ -465,6 +452,7 @@
             </div>
         </div>
     </div>
+    --}}
 
     <div class="modal fade cart-modal" id="addtocart" tabindex="-1" role="dialog" aria-label="myModalLabel"
         aria-hidden="true">

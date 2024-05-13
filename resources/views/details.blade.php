@@ -218,10 +218,10 @@
                                 </div>
 
                                 <div class="product-buttons">
-                                    <a href="javascript:void(0)" class="btn btn-solid">
+                                    {{-- <a href="javascript:void(0)" class="btn btn-solid">
                                         <i class="fa fa-bookmark fz-16 me-2"></i>
                                         <span>Wishlist</span>
-                                    </a>
+                                    </a> --}}
                                     <a href="javascript:void(0)"  onclick="event.preventDefault();document.getElementById('addtocart').submit();" id="cartEffect" class="btn btn-solid hover-solid btn-animation">
                                         <i class="fa fa-shopping-cart"></i>
                                         <span>Add To Cart</span>
@@ -235,13 +235,13 @@
 
                                 </div>
 
-                                <ul class="product-count shipping-order">
+                                {{-- <ul class="product-count shipping-order">
                                     <li>
                                         <img src="../assets/images/gif/truck.png" class="img-fluid blur-up lazyload"
                                             alt="image">
                                         <span class="lang">Free shipping for orders above $500 USD</span>
                                     </li>
-                                </ul>
+                                </ul> --}}
 
                                 <div class="mt-2 mt-md-3 border-product">
                                     <h6 class="product-title hurry-title d-block">
