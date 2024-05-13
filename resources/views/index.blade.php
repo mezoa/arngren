@@ -45,7 +45,7 @@
             <h4>Sale <span class="theme-color">35% Off</span></h4>
             <h1>New Latest <span>Vehicles</span></h1>
             <p>BUY ONE AND GET A <span class="theme-color">FREE DISCOUNT</span></p>
-            <h2>₱55,590 <span class="theme-color"><del>₱65,99</del></span></h2>
+            <h2>₱55,590 <span class="theme-color"><del>₱65,999</del></span></h2>
             <p class="poster-details mb-0">Shop to your Comfort and Convenience</p>
         </div>
     </div>
