@@ -86,31 +86,13 @@
 
                         <div class="col-md-6">
                             <div class="cloth-details-size">
-                                <div class="product-count">
-                                    <ul>
-                                        <li>
-                                            <img src="../assets/images/gif/fire.gif"
-                                                class="img-fluid blur-up lazyload" alt="image">
-                                            <span class="p-counter">37</span>
-                                            <span class="lang">orders in last 24 hours</span>
-                                        </li>
-                                        <li>
-                                            <img src="../assets/images/gif/person.gif"
-                                                class="img-fluid user_img blur-up lazyload" alt="image">
-                                            <span class="p-counter">44</span>
-                                            <span class="lang">active view this</span>
-                                        </li>
-                                    </ul>
-                                </div>
+                               
 
                                 <div class="details-image-concept">
                                     <h2>{{$product->name}}</h2>
                                 </div>
 
-                                <div class="label-section">
-                                    <span class="badge badge-grey-color">#1 Best seller</span>
-                                    <span class="label-text">in fashion</span>
-                                </div>
+                                
 
                                 <h3 class="price-detail">
                                     @if($product->sale_price)
@@ -173,29 +155,8 @@
                                 </div>
 
                                 <div id="selectSize" class="addeffect-section product-description border-product">
-                                    <h6 class="product-title size-text">select size
-                                        <a href="javascript:void(0)" data-bs-toggle="modal"
-                                            data-bs-target="#sizemodal">size chart</a>
-                                    </h6>
-
-                                    <h6 class="error-message">please select size</h6>
-
-                                    <div class="size-box">
-                                        <ul>
-                                            <li>
-                                                <a href="javascript:void(0)">s</a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)">m</a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)">l</a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript:void(0)">xl</a>
-                                            </li>
-                                        </ul>
-                                    </div>
+                                    
+                                    
 
                                     <h6 class="product-title product-title-2 d-block">quantity</h6>
 
@@ -318,15 +279,7 @@
                             <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab"
                                 data-bs-target="#desc" type="button">Description</button>
 
-                            <button class="nav-link" id="nav-speci-tab" data-bs-toggle="tab" data-bs-target="#speci"
-                                type="button">Specifications</button>
-
-                            <button class="nav-link" id="nav-size-tab" data-bs-toggle="tab"
-                                data-bs-target="#nav-guide" type="button">Sizing Guide</button>
-
-                            <button class="nav-link" id="nav-question-tab" data-bs-toggle="tab"
-                                data-bs-target="#question" type="button">Q & A</button>
-
+                           
                             <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab"
                                 data-bs-target="#review" type="button">Review</button>
                         </div>
@@ -650,155 +603,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-12 mt-4">
-                                    <div class="customer-review-box">
-                                        <h4>Customer Reviews</h4>
-
-                                        <div class="customer-section">
-                                            <div class="customer-profile">
-                                                <img src="../assets/images/inner-page/review-image/1.jpg"
-                                                    class="img-fluid blur-up lazyload" alt="">
-                                            </div>
-
-                                            <div class="customer-details">
-                                                <h5>Mike K</h5>
-                                                <ul class="rating my-2 d-inline-block">
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                </ul>
-                                                <p class="font-light">I purchased my Tab S2 at Best Buy but I wanted
-                                                    to
-                                                    share my thoughts on Amazon. I'm not going to go over specs and
-                                                    such
-                                                    since you can read those in a hundred other places. Though I
-                                                    will
-                                                    say that the "new" version is preloaded with Marshmallow and now
-                                                    uses a Qualcomm octacore processor in place of the Exynos that
-                                                    shipped with the first gen.</p>
-
-                                                <p class="date-custo font-light">- Sep 08, 2021</p>
-                                            </div>
-                                        </div>
-
-                                        <div class="customer-section">
-                                            <div class="customer-profile">
-                                                <img src="../assets/images/inner-page/review-image/2.jpg"
-                                                    class="img-fluid blur-up lazyload" alt="">
-                                            </div>
-
-                                            <div class="customer-details">
-                                                <h5>Norwalker</h5>
-                                                <ul class="rating my-2 d-inline-block">
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                </ul>
-                                                <p class="font-light">Pros: Nice large(9.7") screen. Bright colors.
-                                                    Easy
-                                                    to setup and get started. Arrived on time. Cons: a bit slow on
-                                                    response, but expected as tablet is 2 generations old. But works
-                                                    fine and good value for the money.</p>
-
-                                                <p class="date-custo font-light">- Sep 08, 2021</p>
-                                            </div>
-                                        </div>
-
-                                        <div class="customer-section">
-                                            <div class="customer-profile">
-                                                <img src="../assets/images/inner-page/review-image/3.jpg"
-                                                    class="img-fluid blur-up lazyload" alt="">
-                                            </div>
-
-                                            <div class="customer-details">
-                                                <h5>B. Perdue</h5>
-                                                <ul class="rating my-2 d-inline-block">
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                </ul>
-                                                <p class="font-light">Love the processor speed and the sensitivity
-                                                    of
-                                                    the touch screen.</p>
-
-                                                <p class="date-custo font-light">- Sep 08, 2021</p>
-                                            </div>
-                                        </div>
-
-                                        <div class="customer-section">
-                                            <div class="customer-profile">
-                                                <img src="../assets/images/inner-page/review-image/4.jpg"
-                                                    class="img-fluid blur-up lazyload" alt="">
-                                            </div>
-
-                                            <div class="customer-details">
-                                                <h5>MSL</h5>
-                                                <ul class="rating my-2 d-inline-block">
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star theme-color"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                    <li>
-                                                        <i class="fas fa-star"></i>
-                                                    </li>
-                                                </ul>
-                                                <p class="font-light">I purchased the Tablet May 2017 and now April
-                                                    2019
-                                                    I have to charge it everyday. I don't watch movies on it..just
-                                                    play
-                                                    a game or two while on lunch. I guess now I need to power it
-                                                    down
-                                                    for future use.</p>
-
-                                                <p class="date-custo font-light">- Sep 08, 2021</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -858,7 +663,7 @@
                             </div>
                             <div class="product-details">
                                 <div class="rating-details">
-                                    <span class="font-light grid-content">Cupiditate Minus</span>
+                                   
                                     <ul class="rating mt-0">
                                         <li>
                                             <i class="fas fa-star theme-color"></i>

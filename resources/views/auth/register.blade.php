@@ -1,5 +1,5 @@
 
-@extends('layouts.base')
+@extends('layouts.auth')
 
 @section('content')
 <style>

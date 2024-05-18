@@ -36,6 +36,8 @@ Route::put('/cart/update', [CartController::class, 'updateCart'])->name('cart.up
 Route::delete('/cart/remove', [CartController::class, 'removeItem'])->name('cart.remove');
 Route::delete('/cart/clear', [CartController::class, 'clearCart'])->name('cart.clear');
 
+
+
 // Authentication routes
 Auth::routes();
 

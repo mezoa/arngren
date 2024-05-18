@@ -1,4 +1,4 @@
-@extends('layouts.base')
+@extends('layouts.auth')
 
 @section('content')
 
@@ -24,7 +24,7 @@
 
     input [type="text"]:hover,
     [type="email"]:hover,
-    [type="url"]:hover,
+    [type="url"]:hover, 
     [type="password"]:hover,
     [type="number"]:hover,
     [type="date"]:hover,
